@@ -69,6 +69,74 @@ ul {
 
 
 /*Início aluno 2*/
+.atacantes{
+    width: 100px;
+    position: relative;
+    color: aliceblue;
+}
+
+.meio1{
+    width: 500px;
+    position: relative;
+    color: aliceblue;
+    height: 100px;
+
+}
+
+.body1{
+background-image: url(../Documents/Portugal-fundo.jpg);
+    
+}
+
+.container {
+    margin: 0px;
+    width: 50px;
+    font-size: 10px;
+}
+
+.row {
+    width: 1090px;
+}
+
+.div1{
+    width: 1000px;
+}
+
+.tex1 {
+width: 400px;
+color: rgb(255, 255, 255);
+font-size: 11px;
+}
+
+.tex2 {
+width: 400px;
+color: aliceblue;   
+font-size: 11px;
+}
+
+.tex3 {
+width: 400px;
+color: aliceblue;   
+font-size: 10px;
+}
+
+.tex4 {
+width: 400px;
+color: aliceblue;   
+font-size: 10px;
+}
+
+.tex5 {
+width: 400px;
+color: aliceblue;   
+font-size: 10px;
+}
+
+.tex6 {
+width: 400px;
+color: aliceblue;   
+font-size: 10px;
+}
 /*Fim aluno 2*/
 
 
